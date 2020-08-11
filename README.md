@@ -1,0 +1,5 @@
+# test_bootcamp
+
+A [workflowr][] project.
+
+[workflowr]: https://github.com/jdblischak/workflowr
